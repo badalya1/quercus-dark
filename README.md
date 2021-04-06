@@ -8,4 +8,17 @@ Dark theme for Quercus | University of Toronto
 2. Install [quercus-dark.user.css](https://github.com/badalya1/quercus-dark/raw/main/quercus-dark.user.css).
 
 
+## Preview
 
+![Preview of Quercus Dark](./images/dark1.png)
+![Preview of Quercus Dark](./images/dark2.png)
+![Preview of Quercus Dark](./images/dark3.png)
+
+
+## Additional Themes
+
+Through settings, you can achieve custom themes like this
+
+![Preview of Burgundy](./images/custom1.png)
+![Preview of Burgundy](./images/custom2.png)
+![Preview of Burgundy](./images/custom3.png)
